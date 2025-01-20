@@ -1,2 +1,2 @@
-Respo for practice code problems and learn about DSA  i do not know ;)
+Repo for practice code problems and learn about DSA  i do not know ;)
 
